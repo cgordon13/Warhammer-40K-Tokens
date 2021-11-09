@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="27.0002mm"
-   height="27.0002mm"
-   viewBox="0 0 27.0002 27.0002"
+   width="53.145855mm"
+   height="37.102428mm"
+   viewBox="0 0 53.145854 37.102428"
    version="1.1"
    id="svg5730"
    inkscape:version="0.92.1 r15371"
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="-34.402077"
-     inkscape:cy="51.634353"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="-63.936252"
+     inkscape:cy="33.639227"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -64,7 +64,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(234.91099,-179.09532)">
+     transform="translate(234.91099,-179.09531)">
     <circle
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
@@ -125,7 +125,7 @@
      id="layer2"
      inkscape:label="Layer 2"
      style="display:inline"
-     transform="translate(234.91099,-179.09532)">
+     transform="translate(234.91099,-179.09531)">
     <ellipse
        style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.24939837;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="path4573"
@@ -156,7 +156,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-230.69542"
        y="194.54758"
        id="text5743"><tspan
@@ -164,7 +164,7 @@
          id="tspan5741"
          x="-230.69542"
          y="194.54758"
-         style="stroke-width:0.26458332px;stroke:#ffffff;stroke-opacity:1;">TZEENTCH</tspan></text>
+         style="stroke:#ffffff;stroke-width:0.26458332px;stroke-opacity:1">TZEENTCH</tspan></text>
   </g>
   <style
      id="style4496"
