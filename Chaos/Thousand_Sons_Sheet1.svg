@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="Thousand_Sons_Sheet.svg">
+   sodipodi:docname="Thousand_Sons_Sheet1.svg">
   <defs
      id="defs2">
     <clipPath
@@ -39,10 +39,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="379.56556"
-     inkscape:cy="580.51975"
+     inkscape:cx="211.37516"
+     inkscape:cy="257.27093"
      inkscape:document-units="mm"
-     inkscape:current-layer="g7110"
+     inkscape:current-layer="layer1-6"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1315,7 +1315,7 @@
            id="tspan1583"
            sodipodi:role="line"
            x="92.940796"
-           y="291.40121">Version 4.0 - 9th</tspan></text>
+           y="291.40121">Version 5.0 - 9th</tspan></text>
       <circle
          style="opacity:1;fill:#8ccfff;fill-opacity:1;stroke:none;stroke-width:3.60207725;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path4500-1-3"
